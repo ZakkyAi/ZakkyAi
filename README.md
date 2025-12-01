@@ -1,9 +1,7 @@
 # Hi there 👋
 
 **Hello, my name is Zakky.**  
-I’m passionate about **Mobile Web Development** and currently challenging myself with a **1-year commit streak**.  
-Wish me luck! 🚀
-
+I’m passionate about **Mobile Web Development**
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zakkyai)](https://git.io/streak-stats)
