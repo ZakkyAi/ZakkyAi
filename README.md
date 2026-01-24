@@ -16,7 +16,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakkyai&layout=compact&theme=dark&hide_border=true)
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZakkyAi)](https://git.io/streak-stats)
 ## 🛠 Tech Stack
 
 - 🌐 HTML, CSS, JavaScript
