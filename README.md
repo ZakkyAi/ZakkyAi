@@ -6,17 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats & Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=zakkyai&theme=dark&hide_border=true)
-](https://streak-stats.demolab.com?user=ZakkyAi
-)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakkyai&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakkyai&layout=compact&theme=dark&hide_border=true)
-
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZakkyAi)](https://git.io/streak-stats)
 ## 🛠 Tech Stack
 
 - 🌐 HTML, CSS, JavaScript
