@@ -1,34 +1,34 @@
-# Hi there 👋 I'm Zakky
+# Hi there I'm Zakky
 
-🚀 Passionate in **Mobile Web Development**  
-💻 Love building responsive, fast, and user-friendly web apps  
-🔥 Currently focusing on **daily commit streak**
+Passionate in **Mobile Web Development**  
+Love building responsive, fast, and user-friendly web apps  
+Currently focusing on **daily commit streak**
 
 ---
 
 ## 🛠 Tech Stack
 
-- 🌐 HTML, CSS, JavaScript
-- 📱 Mobile-first Web Design
-- ⚛️ React (learning & building)
-- 🎨 Tailwind CSS
-- 🔧 Git & GitHub
+- HTML, CSS, JavaScript
+- Mobile-first Web Design
+- React (learning & building)
+- Tailwind CSS
+- Git & GitHub
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
-- ✅ Maintain **daily GitHub commit streak**
-- 📈 Improve JavaScript & React skills
-- 📱 Build real-world mobile web projects
-- 🌍 Prepare for professional tech career
+- Maintain **daily GitHub commit streak**
+- Improve JavaScript & React skills
+- Build real-world mobile web projects
+- Prepare for professional tech career
 
 ---
 
-## 📌 Quote I Live By
+##  Quote I Live By
 > "Consistency beats motivation."
 
 ---
 
-⭐ Feel free to check my repositories  
-🤝 Open for collaboration and learning together
+Feel free to check my repositories  
+Open for collaboration and learning together
