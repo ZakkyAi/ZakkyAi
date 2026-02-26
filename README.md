@@ -6,7 +6,7 @@ Currently focusing on **daily commit streak**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stacks
 
 - HTML, CSS, JavaScript
 - Mobile-first Web Design
